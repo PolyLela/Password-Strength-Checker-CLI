@@ -1,4 +1,3 @@
-#Simple Password Strength Checker (CLI Project)
 📌 Overview
 
 This project is a simple password strength checker made in node.js CLI.
